@@ -2,7 +2,11 @@
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
-## Jobs
+## Job History
+
+### Developer
+
+Crafting the website from backend to frontend involves seamlessly integrating various components. Engaging in essential DevOps and testing tasks ensures a comprehensive and robust development process.
 
 ### GitHub Trainer
 
